@@ -16,7 +16,7 @@ https://polar-reef-71114.herokuapp.com/   -Floral Studio
 *(Use username: admin, password: admin to edit, delete, and add products)*
 
 https://hidden-bastion-33791.herokuapp.com/   -Sport Teams
-*(Use username: bart, password: bart to add player or edit player; Use username: admin, password: admin to add team or register new user)*
+*(Use username: bart, password: bart to add a player or edit player; Use username: admin, password: admin to add a team or register a new user)*
 
 https://desolate-basin-54430.herokuapp.com/   -ToDo list
 
