@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-**Some projects are:**
+**Some projects are deployed to Heroku:**
 
 https://polar-reef-71114.herokuapp.com/   -Floral Studio 
 *(Use username: admin, password: admin to edit, delete, and add products)*
