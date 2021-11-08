@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khulanJargalsaikhan
 - 👀 I’m interested in entry-level software developer position
-- 🌱 I’m currently learning to develop Web Applications With Spring Boot
+- 🌱 I’m currently learning to develop Web Applications with Spring Boot
 - 💞️ I’m looking to collaborate on developing Web Applications
 - 📫 Contact me at: onagraa@gmail.com
 
@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-**Some projects are deployed to Heroku:**
+**Some projects on Heroku:**
 
 https://polar-reef-71114.herokuapp.com/   - A full-stack Floral Studio web application
 - *(Use username: admin, password: admin to edit, delete, and add products)*
