@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 **Some projects on Heroku:**
 
-https://polar-reef-71114.herokuapp.com/   - A full-stack Floral Studio web application
+https://polar-reef-71114.herokuapp.com/   - Floral Studio Spring Boot web application
 - *(Use username: "admin", password: "admin" to edit, delete, and add products)*
 - source code: https://github.com/khulanJargalsaikhan/Final-Project---Samazon-with-David.git
 
@@ -26,6 +26,7 @@ https://hidden-bastion-33791.herokuapp.com/   -Sport Teams application for a sch
 
 https://radiant-thicket-66743.herokuapp.com/   -Online Guestbook application for Taylor & Oscar's Wedding
 - source code: https://github.com/khulanJargalsaikhan/Week-4-Challenge---to-create-online-guestbook.git
+
 
 
 
