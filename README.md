@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khulanJargalsaikhan
-- 👀 I’m interested in Entry-level Software Developer position.
-- 🌱 I’m currently learning to develop Web Applications with Spring Boot framework.
-- 💞️ I’m looking to collaborate on developing Web Applications.
+- 👀 I’m interested in building healthy cook book application.
+- 🌱 I’m currently ..
+- 💞️ I’m looking to ..
 - 📫 Contact me at: onagraa@gmail.com
 
 <!---
