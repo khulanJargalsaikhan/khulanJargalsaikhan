@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khulanJargalsaikhan
-- 👀 I’m interested in building healthy cook book application.
+- 👀 I’m interested in building a healthy cook book application.
 - 🌱 I’m currently ..
 - 💞️ I’m looking to ..
 - 📫 Contact me at: onagraa@gmail.com
