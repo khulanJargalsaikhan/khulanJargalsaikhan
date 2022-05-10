@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @khulanJargalsaikhan
-- 👀 I’m interested in building a healthy cook book application.
-- 🌱 I’m currently ..
-- 💞️ I’m looking to ..
-- 📫 Contact me at: onagraa@gmail.com
 
 <!---
 khulanJargalsaikhan/khulanJargalsaikhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
