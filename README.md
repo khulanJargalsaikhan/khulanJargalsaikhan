@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khulanJargalsaikhan
+- 👋 Hi there, 
 
 <!---
 khulanJargalsaikhan/khulanJargalsaikhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-**Some projects on Heroku:**
+**Some projects on Heroku built during Java Web Development Bootcamp**
 
 https://polar-reef-71114.herokuapp.com/   - Floral Studio Spring Boot web application
 - *(Use username: "admin", password: "admin" to edit, delete, and add products)*
